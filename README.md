@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Developer calendar ###
 
 In January 2014, I created a personal calendar to observe important dates in the developer world. Soon my dev team started observing them as well. As more people became interested in this calendar, I decided to put it up and take it further here on GitHub. I hope this calendar encourages and motivates all of us developers.
@@ -46,3 +47,25 @@ To request correction of any date or it's details:
    - Description - Write a brief summary about the correction. Please include a link to an external resource that supports the correction.
    - Label - Add the "correction request" label to the issue.
 
+=======
+# Developer calendar #
+
+A calendar for developers.
+
+## January ##
+
+|               |               |               |               |               |               |               |
+| :------------ | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ |
+| 1             | 2             | 3             | 4             | 5             | 6             | 7             |
+| 8             | 9             | 10            | 11            | 12            | 13            | 14            |
+| [**15**](# "Wikipedia day")            | 16            | 17            | 18            | 19            | 20            | 21            |
+| 22            | 23            | 24            | 25            | 26            | 27            | [**18**](# "Data privacy day")            |
+| 29            | 30            | 31            |               |               |               |               |
+|               |               |               |               |               |               |               |
+
+##### List of special dates #####
+| Day           | Significance              |
+| :------------ | :------------------------ |
+| 15            | Wikipedia day             |
+| 28            | Data privacy day          |
+>>>>>>> e824cb9a37d681a8dca088d5f0e5e30229d0cae1
