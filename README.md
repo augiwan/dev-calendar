@@ -12,8 +12,8 @@ Hover your mouse over any blue date(displayed as a link) for a description of th
 |:--|:--|:--|:--|:--|:--|:--|
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| [**15**](#january "Wikipedia day") | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | [**18**](#january "Data privacy day") |
+| [**15**][1] | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | [**18**][2] |
 | 29 | 30 | 31 | | | | |
 | | | | | | | |
 
@@ -45,3 +45,8 @@ To request correction of any date or it's details:
    - Title - "Correction request : [Name of the day]". For example - "Correction request : Data privacy day"
    - Description - Write a brief summary about the correction. Please include a link to an external resource that supports the correction.
    - Label - Add the "correction request" label to the issue.
+
+
+[1]: #january "Wikipedia day"
+[2]: #january "Data privacy day"
+
